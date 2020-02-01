@@ -3,7 +3,7 @@
 //     maxVal:number,
 //     minVal:number
 // };
-interface Points{
+export interface Points{
     maxVal:number,
     minVal:number
 };
